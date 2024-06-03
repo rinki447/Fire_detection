@@ -39,4 +39,3 @@ Just replace it with the API key that you get from roboflow
 A detailed video explaining the same has been uploaded at demmo.webm
 
 https://drive.google.com/file/d/1HXwqWGpAJjrvxGD0MmzPzoi6w3SRrcj6/view?usp=drive_link
-# Fire_detection
